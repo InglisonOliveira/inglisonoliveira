@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Inglison Oliveira
+Olá, eu sou o Inglison Oliveira, aluno do curso Staart.
 
 ## Meus Hobbies
 
