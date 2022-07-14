@@ -8,7 +8,7 @@ Olá, eu sou o Inglison Oliveira
 - Treinar
 - Estudar sobre técnologia
 
-## Atuamente estudando
+## Atualmente estudando
 
 - Git e GitHub
 - Javascript e Typescript
