@@ -14,6 +14,7 @@ Olá, eu sou o Inglison Oliveira, aluno do curso Staart.
 - Javascript e Typescript
 - React
 - Node JS
+- Banco de Dados
 
 ## Meus Contatos
 
